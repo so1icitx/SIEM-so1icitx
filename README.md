@@ -47,7 +47,7 @@ This prototype runs on an Ubuntu VM (tested with Ubuntu 24.04, Python 3.12).
 4. **Test It**
    - From another machine, simulate brute-force attempts:
      ```bash
-     ssh fakeuser@<vm-ip>
+     ssh fakeuser@<ip>
      ```
      - Enter wrong passwords 6+ times to trigger alerts.
 
